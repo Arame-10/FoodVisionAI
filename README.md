@@ -82,3 +82,13 @@ Université de Montpellier
 ---
 
 *Academic and personal project exploring artificial intelligence and computer vision.*
+
+## 🖼️ Visual Results
+
+### Segmentation mask – Image 306
+
+![Mask 306](results/masque_306_visualisation.png)
+
+### Segmentation mask – Image 366
+
+![Mask 366](results/masque_366_couleurs.png)
