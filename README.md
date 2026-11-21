@@ -91,4 +91,4 @@ Université de Montpellier
 
 ### Segmentation mask – Image 366
 
-![Mask 366](results/masque_366_couleurs.png)
+![Mask 366](results/masque_336_couleurs.png)
